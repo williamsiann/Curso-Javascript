@@ -1,0 +1,14 @@
+{
+  "name": "curso-javascript",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de JavaScript en open bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "mesnsaje de bienvenida": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo"
+
+  },
+  "author": "Ian Williams",
+  "license": "ISC"
+}
